@@ -22,11 +22,4 @@ async def on_message(message):
         await message.channel.send("Deine Hose ist nass")
 
 
-
-
-
-
-
-
-
 bot.run("TOKEN")
